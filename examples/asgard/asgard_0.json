@@ -12,6 +12,7 @@
         "uco-observable": "https://unifiedcyberontology.org/ontology/uco/observable#",
         "uco-tool": "https://unifiedcyberontology.org/ontology/uco/tool#",
         "uco-types": "https://unifiedcyberontology.org/ontology/uco/types#",
+        "uco-vocabulary": "https://unifiedcyberontology.org/ontology/uco/vocabulary#",
         "xsd": "http://www.w3.org/2001/XMLSchema#"
     },
     "@id": ":bundle-5715FCF3-6BC8-4996-8F7F-FDF289F31649",
