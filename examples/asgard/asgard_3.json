@@ -55,7 +55,7 @@
             "@type": "uco-observable:CyberItemRelationshipEnum",
             "@value": "Contained_Within"
         },
-        "uco-observable:isDirectional": true,
+        "uco-core:isDirectional": true,
         "case-core:hasPropertyBundle": [
             {
                 "@type": "uco-observable:PathRelation",
