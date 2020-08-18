@@ -1,8 +1,8 @@
 [
     {
         "@id": ":suspect-device-mmssms-uuid",
-        "@type": "case-core:Trace",
-        "case-core:hasPropertyBundle": [
+        "@type": "uco-observable:CyberItem",
+        "uco-core:facets": [
             {
                 "@type": "uco-observable:File",
                 "uco-observable:createdTime": {
@@ -56,7 +56,7 @@
             "@value": "Contained_Within"
         },
         "uco-core:isDirectional": true,
-        "case-core:hasPropertyBundle": [
+        "uco-core:facets": [
             {
                 "@type": "uco-observable:PathRelation",
                 "uco-observable:path": "/mobile/sms.db"
