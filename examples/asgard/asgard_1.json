@@ -1,7 +1,7 @@
 [
     {
         "@id": ":investigative-action1-uuid",
-        "@type": "uco-investigation:InvestigativeAction",
+        "@type": "case-investigation:InvestigativeAction",
         "uco-core:name": "preserved",
         "uco-action:startTime": {
             "@type": "xsd:dateTime",
@@ -33,9 +33,9 @@
     },
     {
         "@id": ":provenance-record1-uuid",
-        "@type": "uco-investigation:ProvenanceRecord",
+        "@type": "case-investigation:ProvenanceRecord",
         "uco-core:description": "Suspect device found near Bifrost Bridge after disruption",
-        "uco-investigation:exhibitNumber": "AsgardPD-20190330-001A",
+        "case-investigation:exhibitNumber": "AsgardPD-20190330-001A",
         "uco-core:object": [
             {
                 "@id": ":suspect-device-uuid"

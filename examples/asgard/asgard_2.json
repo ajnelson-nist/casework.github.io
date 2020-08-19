@@ -1,7 +1,7 @@
 [
     {
         "@id": ":219189B6-356C-4D53-A844-F0031E74F156",
-        "@type": "uco-investigation:InvestigativeAction",
+        "@type": "case-investigation:InvestigativeAction",
         "uco-core:name": "acquired",
         "uco-core:description": "Suspect device physical acquisition",
         "uco-action:startTime": {
